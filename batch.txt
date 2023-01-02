@@ -1,0 +1,20 @@
+{'input_ids': tensor([[    0,   236,    10,  1109,  5820,   452,   479, 50269,     2,     1,
+             1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+             1,     1,     1,     1,     1],
+        [    0,   222, 11522,   479, 50265, 50267, 50268, 50269,     2,     1,
+             1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+             1,     1,     1,     1,     1]]), 'attention_mask': tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+         0],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+         0]]), 'labels': tensor([[    0, 50269,   236,    10,  1109,  5820,   452,   479,     2,     1,
+             1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+             1,     1,     1,     1,     1],
+        [    0, 50269,   222, 11522, 50268, 50265, 50267,   479,     2,     1,
+             1,     1,     1,     1,     1,     1,     1,     1,     1,     1,
+             1,     1,     1,     1,     1]])}
+torch.Size([2, 25, 50271])
+tensor(11.4117, grad_fn=<NllLossBackward0>)
+torch.Size([2, 25])
+['benefits bracket bracket cathedralpark 470Transaction nakedraviolet bracket bracket bracket bracket bracket bracket bracket bracket bracket bracket bracket bracket bracket bracket bracket bracket', 'benefits004 bracket locateManchesterfold bracket bracketraviolet bracket bracket bracket bracket bracket bracket bracket bracket bracket bracket bracket bracket bracket bracket bracket bracket']
+[['<ms>  want a light meal today.'], ['<ms>  did awful <mp> <ma> <mn> .']]
+0.0
